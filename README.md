@@ -11,5 +11,6 @@ The topics in this Notebook includes:
 * Compute the annualized realized volatility of the log-returns for price path.
 * Compute the total realized P&L when hedging using price path.
 * The formulas for calculating the self-financing portfolio value.
-* P&L path-dependency. 
+* P&L path-dependency.
 * Units & break-even volatility.
+* The Robustness of the Black-Scholes Formula.

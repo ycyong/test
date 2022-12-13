@@ -9,3 +9,5 @@ Your task in the questions is to determine the performance of the delta-hedging 
 The topics in this Notebook includes:
 
 * Compute the annualized realized volatility of the log-returns for price path.
+* Compute the total realized P&L when hedging using price path.
+* The formulas for calculating the self-financing portfolio value. 

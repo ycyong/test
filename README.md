@@ -12,3 +12,4 @@ The topics in this Notebook includes:
 * Compute the total realized P&L when hedging using price path.
 * The formulas for calculating the self-financing portfolio value.
 * P&L path-dependency. 
+* Units and break-even volatility.
